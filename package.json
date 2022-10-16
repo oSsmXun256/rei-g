@@ -1,0 +1,14 @@
+{
+    "name": "怜 - Rei",
+    "main": "ts-g-rei.js",
+    "scripts": {
+      "start": "node ts-g-rei.js"
+    },
+   "dependencies": {
+      "discord.js": "^13.4.0",
+      "express": "4.17.2"
+    },
+    "engines": {
+      "node": "18.x"
+    }
+}
